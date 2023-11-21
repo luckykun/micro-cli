@@ -1,0 +1,6 @@
+{
+  "extends": "eslint-config-ali",
+  "rules": {
+    "no-console": 0
+  }
+}
