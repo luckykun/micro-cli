@@ -34,6 +34,7 @@
     "mini-css-extract-plugin": "^2.7.6",
     "node-polyfill-webpack-plugin": "^2.0.1",
     "raw-loader": "^4.0.2",
+    "sass": "^1.69.5",
     "sass-loader": "^13.3.2",
     "speed-measure-webpack-plugin": "^1.5.0",
     "style-loader": "^3.3.3",
@@ -52,5 +53,6 @@
     "eslint": "^6.8.0",
     "eslint-config-ali": "^14.0.2",
     "eslint-plugin-import": "^2.29.0"
-  }
+  },
+  "repository": "https://github.com/luckykun/micro-cli.git"
 }
