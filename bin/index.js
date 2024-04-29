@@ -1,8 +1,14 @@
 #!/usr/bin/env node
+const path = require('path');
 const program = require('commander');
 const init = require('../lib/commands/init');
 const dev = require('../lib/commands/dev');
 const build = require('../lib/commands/build');
+
+
+if (!__dirname.includes('node_modules')) {
+  console.log(`调试模式 ${path.join(__dirname, 'index.js')}`);
+}
 
 
 program.command('init <projectName> [other...]')
