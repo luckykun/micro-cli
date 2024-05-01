@@ -1,7 +1,7 @@
 {
   "name": "plugin-eslint-micro",
   "version": "1.0.0",
-  "description": "",
+  "description": "微前端架构-eslint规范",
   "main": ".eslintrc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
