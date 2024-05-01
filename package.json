@@ -1,7 +1,7 @@
 {
-  "name": "micro-cli",
+  "name": "micro-demo-cli",
   "version": "1.0.0",
-  "description": "命令行工具",
+  "description": "微前端架构-统一命令行工具",
   "main": "index.js",
   "bin": {
     "micro": "./bin/index.js"
