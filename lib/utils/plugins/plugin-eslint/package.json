@@ -1,0 +1,18 @@
+{
+  "name": "plugin-eslint-micro",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": "https://github.com/luckykun/micro-cli.git",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-ali": "^13.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsx-a11y": "^6.8.0"
+  }
+}
