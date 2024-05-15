@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-micro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "微前端架构-eslint规范",
   "main": ".eslintrc.js",
   "scripts": {
