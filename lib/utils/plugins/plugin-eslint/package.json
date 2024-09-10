@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-micro",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "微前端架构-eslint插件",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "ISC",
   "repository": "https://github.com/luckykun/micro-cli.git",
   "dependencies": {
-    "eslint": "^6.8.0"
+    "eslint": "^8.57.0"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-micro",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "微前端架构-eslint规范",
   "main": ".eslintrc.js",
   "scripts": {
@@ -10,13 +10,13 @@
   "license": "ISC",
   "repository": "https://github.com/luckykun/micro-cli.git",
   "dependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-ali": "^13.1.0",
-    "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-jsx-a11y": "^6.8.0",
-    "eslint-plugin-micro": "^1.0.1",
-    "eslint-plugin-react": "^7.34.1",
-    "eslint-plugin-react-hooks": "^1.7.0",
-    "eslint-plugin-sonarjs": "^0.25.1"
+    "eslint": "^8.57.0",
+    "eslint-config-ali": "^14.2.1",
+    "eslint-plugin-import": "^2.30.0",
+    "eslint-plugin-jsx-a11y": "^6.10.0",
+    "eslint-plugin-micro": "^1.0.3",
+    "eslint-plugin-react": "^7.35.2",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-sonarjs": "^2.0.2"
   }
 }
